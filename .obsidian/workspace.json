@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_daily/2023-04-11.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "d6a0eb6fbb057458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68bdb0177a6320a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_daily/2023-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_daily/2023-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md"
+                "file": "_daily/2023-04-11.md"
               }
             }
           },
@@ -167,6 +172,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/Writing with Exocore Syntax.md",
+    "_daily/2023-04-11.md",
     "_daily/2023-04-04.md",
     "_daily/2022-05-11.md",
     "_articles/Set up a Custom Domain.md",
@@ -176,7 +183,6 @@
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
     "_daily/2022-10-23.md"
   ]
