@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-04-11.md",
+                "file": "_daily/2022-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-04-11.md",
+                "file": "_daily/2022-05-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-04-11.md",
+                "file": "_daily/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-04-11.md"
+                "file": "_daily/2022-05-11.md"
               }
             }
           },
@@ -157,15 +157,17 @@
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
     "_daily/Untitled.md",
+    "_daily/Untitled 1.md",
+    "_daily/2022-05-11.md",
     "_daily/2023-04-11.md",
+    "_daily/2023-04-04.md",
+    "_site/articles/Untitled.md",
     "assets/imgs/card.png",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.png.0.pdnSave",
     "_articles/Writing with Exocore Syntax.md",
-    "_daily/2022-05-11.md",
     "_articles/Using your Exocore.md",
     "_articles/Set up a Custom Domain.md",
-    "_daily/2023-04-04.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-29.md",
