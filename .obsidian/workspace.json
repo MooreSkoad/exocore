@@ -86,12 +86,12 @@
               "type": "backlink",
               "state": {
                 "file": "_daily/2023-04-11.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +156,12 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/Untitled.md",
+    "_daily/2023-04-11.md",
     "assets/imgs/card.png",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.png.0.pdnSave",
     "_articles/Writing with Exocore Syntax.md",
-    "_daily/2023-04-11.md",
     "_daily/2022-05-11.md",
     "_articles/Using your Exocore.md",
     "_articles/Set up a Custom Domain.md",
